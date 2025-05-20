@@ -1,0 +1,22 @@
+[
+  {
+    "platform": "Windows",
+    "disk_encryption": true,
+    "os_updates": true,
+    "antivirus": false,
+    "sleep_settings": true,
+    "cpu_usage": 42,
+    "memory": { "percent": 58 },
+    "timestamp": "2025-05-19T12:00:00Z"
+  },
+  {
+    "platform": "Linux",
+    "disk_encryption": false,
+    "os_updates": false,
+    "antivirus": true,
+    "sleep_settings": true,
+    "cpu_usage": 25,
+    "memory": { "percent": 67 },
+    "timestamp": "2025-05-19T11:50:00Z"
+  }
+]
